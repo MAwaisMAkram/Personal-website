@@ -38,10 +38,12 @@ hr {
 a {
     color: #074244;
     font-family: 'Montserrat', sans-serif;
-    margin: 10px 20px;
+    margin: 10px auto;
     text-decoration: none;
 }
-
+.footer-link {
+    margin: 10px 20px;
+}
 a:hover {
     color: #EAF6F6;
     text-decoration: underline;
@@ -83,9 +85,10 @@ a:hover {
 }
 
 .intro {
-    width: 30%;
+    width: 20%;
     margin: auto;
 }
+
 .contact-message {
     width: 40%;
     margin: 40px auto 60px;
